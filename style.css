@@ -23,7 +23,6 @@ p {
   
 .chicken  {
   border: 1px solid black;
-  display: inline-block;
   width:30%;
   padding: 5px;
  box-sizing: border-box;
@@ -38,7 +37,6 @@ p {
 
 .beef {
   border: 1px solid black;
-  display: inline-block;
   width:30%;
   padding: 5px;
   box-sizing: border-box;
@@ -49,7 +47,6 @@ p {
 }
 .sushi{
   border: 1px solid black;
-  display: inline-block;
   width:30%;
   padding: 5px;
   box-sizing: border-box;
