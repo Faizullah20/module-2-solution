@@ -19,9 +19,7 @@ p {
   font-family: Arial, Helvetica, sans-serif;
 
 }
-
-  
-.chicken  {
+.chicken {
   border: 1px solid black;
   width:30%;
   padding: 5px;
@@ -30,12 +28,9 @@ p {
   font-size: 120%;
   text-align: center;
   background-color:pink;
- 
-}
- 
-  
+ }
 
-.beef {
+ .beef {
   border: 1px solid black;
   width:30%;
   padding: 5px;
@@ -45,7 +40,7 @@ p {
   background-color:rgb(233, 54, 84);
   text-align: center;
 }
-.sushi{
+.sushi {
   border: 1px solid black;
   width:30%;
   padding: 5px;
